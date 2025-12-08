@@ -74,7 +74,7 @@ SQL scripts, queries, indexing, optimization, and ACID transaction implementatio
 
 <hr />
 
-<h2>📂 docs/</h2>
+<h2>📂 Documents/</h2>
 <p>This folder contains all documentation and generated diagrams:</p>
 <ul>
   <li><code>LLD_Documentation.pdf</code> – Low Level Design document (tables, keys, mappings, normalization).</li>
@@ -92,7 +92,7 @@ SQL scripts, queries, indexing, optimization, and ACID transaction implementatio
   <li><code>queries.sql</code> – All required queries (basic, joins, aggregation, advanced, views).</li>
 </ul>
 
-<h2>🖼️ diagrams/</h2>
+<h2>🖼️ Diagrams/</h2>
 <ul>
   <li><code>ERD_Source_File.erdplus</code> – Editable ERDPlus source file.</li>
   <li><code>Schema_Source_File.drawio</code> – Editable Draw.io schema file.</li>
