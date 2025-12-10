@@ -55,8 +55,7 @@ SQL scripts, queries, indexing, optimization, and ACID transaction implementatio
 │   ├── Main_Report.pdf
 │   ├── ER_Diagram.png
 │   ├── Schema_Diagram.png
-│   ├── Normalization.pdf
-│   └── Query_Explanation.pdf
+│   └── Normalization.pdf
 │
 ├── sql/
 │   ├── schema.sql
@@ -67,9 +66,7 @@ SQL scripts, queries, indexing, optimization, and ACID transaction implementatio
 │   ├── ERD_Source_File.erdplus
 │   ├── Schema_Source_File.drawio
 │   └── Relationships.png
-│
-└── src/
-    └── (Optional implementation code)
+
 </code></pre>
 
 <hr />
@@ -82,7 +79,6 @@ SQL scripts, queries, indexing, optimization, and ACID transaction implementatio
   <li><code>ER_Diagram.png</code> – Final ER diagram for the College Management System.</li>
   <li><code>Schema_Diagram.png</code> – Relational schema diagram (tables + FKs).</li>
   <li><code>Normalization.pdf</code> – 1NF, 2NF, 3NF explanation for all tables.</li>
-  <li><code>Query_Explanation.pdf</code> – Explanation of each SQL query and its purpose.</li>
 </ul>
 
 <h2>🗄️ sql/</h2>
@@ -119,10 +115,10 @@ cd College-Management-System
   <li>DBMS concepts: ER modeling, normalization, indexing, transactions, RBAC</li>
 </ul>
 
-<h2>👤 Author</h2>
+<h2>✒️ Author</h2>
 <p><strong>Vishnu Bharathi</strong></p>
 
-<h2>📜 License</h2>
+<h2>🪪 License</h2>
 <p>
 This project is licensed under the <strong>MIT License</strong> – see the <code>LICENSE</code> file for details.
 </p>
