@@ -64,8 +64,7 @@ SQL scripts, queries, indexing, optimization, and ACID transaction implementatio
 │
 ├── diagrams/
 │   ├── ERD_Source_File.erdplus
-│   ├── Schema_Source_File.drawio
-│   └── Relationships.png
+│   └── Schema_Source_File.erdplus
 
 </code></pre>
 
@@ -90,9 +89,8 @@ SQL scripts, queries, indexing, optimization, and ACID transaction implementatio
 
 <h2>🖼️ Diagrams/</h2>
 <ul>
-  <li><code>ERD_Source_File.erdplus</code> – Editable ERDPlus source file.</li>
-  <li><code>Schema_Source_File.drawio</code> – Editable Draw.io schema file.</li>
-  <li><code>Relationships.png</code> – Simplified relationship diagram (optional).</li>
+  <li><a href="https://erdplus.com/diagrams/186862">ERD_Source_File.erdplus</a> – Editable ERDPlus source file.</li>
+  <li><a href="https://erdplus.com/diagrams/187528">Schema_Source_File.erdplus</a> – Editable Draw.io schema file.</li>
 </ul>
 
 <h2>🚀 Getting Started</h2>
