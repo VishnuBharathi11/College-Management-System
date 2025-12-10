@@ -108,7 +108,7 @@ cd College-Management-System
 </ul>
 
 <h2>✒️ Author</h2>
-<p><strong>Vishnu Bharathi</strong></p>
-
+<p><strong>Vishnu Bharathi S</strong></p>
+<p><strong>Anbumani S</strong></p>
 <h2>🪪 License</h2>
 <p>This project is licensed under the <strong>MIT License</strong>.</p>
