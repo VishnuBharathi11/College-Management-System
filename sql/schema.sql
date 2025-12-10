@@ -114,7 +114,3 @@ CREATE TABLE Teaches (
     FOREIGN KEY (Prof_id) REFERENCES Professor(Prof_id),
     FOREIGN KEY (Course_id) REFERENCES Courses(Course_id)
 );
-
-------------------------------------------------------------
--- END OF SCHEMA
-------------------------------------------------------------
